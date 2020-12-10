@@ -1,0 +1,1 @@
+![image](resources/splash_screen.png)
